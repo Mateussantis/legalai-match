@@ -9,6 +9,7 @@ export const mockMatches: Match[] = [
     interest: "Tecnologia",
     experience: "1-2",
     affinity: 0,
+    avatar: "https://avatar.iran.liara.run/public/94"
   },
   {
     id: 2,
@@ -17,6 +18,7 @@ export const mockMatches: Match[] = [
     interest: "Tecnologia",
     experience: "3-5",
     affinity: 0,
+    avatar: "https://avatar.iran.liara.run/public/42"
   },
 
   // Marketing
@@ -27,6 +29,7 @@ export const mockMatches: Match[] = [
     interest: "Marketing",
     experience: "3-5",
     affinity: 0,
+    avatar: "https://avatar.iran.liara.run/public/53"
   },
   {
     id: 4,
@@ -35,6 +38,7 @@ export const mockMatches: Match[] = [
     interest: "Marketing",
     experience: "1-2",
     affinity: 0,
+    avatar: "https://avatar.iran.liara.run/public/8"
   },
 
   // Financeiro
@@ -45,6 +49,7 @@ export const mockMatches: Match[] = [
     interest: "Financeiro",
     experience: "6-10",
     affinity: 0,
+    avatar: "https://avatar.iran.liara.run/public/72"
   },
   {
     id: 6,
@@ -53,6 +58,7 @@ export const mockMatches: Match[] = [
     interest: "Financeiro",
     experience: "3-5",
     affinity: 0,
+    avatar: "https://avatar.iran.liara.run/public/22"
   },
 
   // RH
@@ -63,6 +69,7 @@ export const mockMatches: Match[] = [
     interest: "RH",
     experience: "1-2",
     affinity: 0,
+    avatar: "https://avatar.iran.liara.run/public/100"
   },
   {
     id: 8,
@@ -71,6 +78,7 @@ export const mockMatches: Match[] = [
     interest: "RH",
     experience: "3-5",
     affinity: 0,
+    avatar: "https://avatar.iran.liara.run/public/50"
   },
 
   // Jurídico
@@ -81,6 +89,7 @@ export const mockMatches: Match[] = [
     interest: "Jurídico",
     experience: "3-5",
     affinity: 0,
+    avatar: "https://avatar.iran.liara.run/public/55"
   },
   {
     id: 10,
@@ -89,5 +98,6 @@ export const mockMatches: Match[] = [
     interest: "Jurídico",
     experience: "mais-de-10",
     affinity: 0,
+    avatar: "https://avatar.iran.liara.run/public/41"
   },
 ];

@@ -7,11 +7,6 @@ import type { FormData, Match } from "../types";
 export default function MatchPage() {
   const [matches, setMatches] = useState<Match[]>([]);
 
-  // function handleSearch(data: FormData) {
-  //   console.log("Buscando com:", data);
-  //   setMatches(mockMatches);
-  // }
-
   function handleSearch(data: FormData) {
     const enriched = mockMatches.map((candidate) => ({
       ...candidate,

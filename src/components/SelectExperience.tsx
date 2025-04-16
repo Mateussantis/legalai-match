@@ -22,7 +22,7 @@ export function SelectExperience({ value, onChange }: SelectExperienceProps) {
       <SelectContent>
         <SelectGroup>
           <SelectLabel>Anos de experiencia</SelectLabel>
-          <SelectItem value="menos-de-10">Menos de 1</SelectItem>
+          <SelectItem value="menos-de-1">Menos de 1</SelectItem>
           <SelectItem value="1-2">1-2</SelectItem>
           <SelectItem value="3-5">3-5</SelectItem>
           <SelectItem value="6-10">6-10</SelectItem>

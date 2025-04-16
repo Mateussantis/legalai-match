@@ -5,6 +5,7 @@ export interface Match {
   interest: string;
   experience: string;
   affinity: number;
+  avatar: string;
 }
 
 export interface FormData {

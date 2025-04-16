@@ -9,7 +9,7 @@ export default function MatchCard({ match }: Props) {
   return (
     <div className="border border-gray-200 bg-white shadow-sm rounded-sm p-4 mb-4 w-full flex items-center gap-4">
       <Avatar className="w-15 h-15">
-        <AvatarImage src="https://github.com/shadcn.png" />
+        <AvatarImage src={match.avatar} />
       </Avatar>
       <div>
         <h3 className="text-neutral-800s font-bold mb-2">{match.name}</h3>
