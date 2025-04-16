@@ -7,7 +7,7 @@ Sistema de busca por match, determina sua afinidade com outros colegas, baseado 
 
 ## 🌐 Hospedado na Vercel ##
 
-[![Deploy na Vercel](https://legalai-match.vercel.app/)
+[![Deploy na Vercel](https://img.shields.io/badge/VERCEL-000?style=for-the-badge&logo=vercel&logoColor=white)](https://legalai-match.vercel.app/)
 
 ## ✨ Funcionalidades ##
 
