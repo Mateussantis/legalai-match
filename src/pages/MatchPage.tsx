@@ -44,7 +44,7 @@ export default function MatchPage() {
   return (
     <div className="p-4">
       <div className="max-w-7xl w-full mx-auto">
-        <h1 className="text-blue-700 font-bold text-2xl mb-4">Match Inteligente</h1>
+        <h1 className="text-blue-600 font-bold text-2xl mb-4">Match Inteligente</h1>
         <Form onSubmit={handleSearch} />
         <div className="grid grid-cols-1 gap-4 mt-6 md:grid-cols-2 lg:grid-cols-3">
           {matches.map((match) => (

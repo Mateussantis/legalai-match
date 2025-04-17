@@ -69,7 +69,7 @@ export default function Form({ onSubmit }: Props) {
           />
         </div>
       </div>
-      <Button className="w-full mt-4 md:w-40 bg-blue-600" type="submit">Buscar Conexões</Button>
+      <Button className="w-full mt-4 md:w-40 bg-blue-600 hover:bg-blue-700" type="submit">Buscar Conexões</Button>
     </form>
   );
 }
