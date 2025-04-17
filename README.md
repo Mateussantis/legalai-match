@@ -12,6 +12,7 @@ Sistema de busca por match, determina sua afinidade com outros colegas, baseado 
 ## ✨ Funcionalidades ##
 
 ✔️ Buscar por afinidade;\
+✔️ Responsividade total: Projeto otimizado para funcionar perfeitamente em dispositivos móveis, garantindo uma experiência consistente em diferentes tamanhos de tela;
 
 ## 🚀 Tecnologias
 
