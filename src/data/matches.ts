@@ -1,3 +1,13 @@
+import Homem8 from "../assets/homem_8.png";
+import Homem22 from "../assets/homem_22.png";
+import Homem41 from "../assets/homem_41.png";
+import Homem42 from "../assets/homem_42.png";
+import Homem50 from "../assets/homem_50.png";
+import Mulher53 from "../assets/mulher_53.png";
+import Mulher55 from "../assets/mulher_55.png";
+import Mulher72 from "../assets/mulher_72.png";
+import Mulher94 from "../assets/mulher_94.png";
+import Mulher100 from "../assets/mulher_100.png";
 import type { Match } from "../types";
 
 export const mockMatches: Match[] = [
@@ -9,7 +19,7 @@ export const mockMatches: Match[] = [
     interest: "Tecnologia",
     experience: "1-2",
     affinity: 0,
-    avatar: "https://avatar.iran.liara.run/public/94"
+    avatar: Mulher94
   },
   {
     id: 2,
@@ -18,7 +28,7 @@ export const mockMatches: Match[] = [
     interest: "Tecnologia",
     experience: "3-5",
     affinity: 0,
-    avatar: "https://avatar.iran.liara.run/public/42"
+    avatar: Homem42
   },
 
   // Marketing
@@ -29,7 +39,7 @@ export const mockMatches: Match[] = [
     interest: "Marketing",
     experience: "3-5",
     affinity: 0,
-    avatar: "https://avatar.iran.liara.run/public/53"
+    avatar: Mulher53
   },
   {
     id: 4,
@@ -38,7 +48,7 @@ export const mockMatches: Match[] = [
     interest: "Marketing",
     experience: "1-2",
     affinity: 0,
-    avatar: "https://avatar.iran.liara.run/public/8"
+    avatar: Homem8
   },
 
   // Financeiro
@@ -49,7 +59,7 @@ export const mockMatches: Match[] = [
     interest: "Financeiro",
     experience: "6-10",
     affinity: 0,
-    avatar: "https://avatar.iran.liara.run/public/72"
+    avatar: Mulher72
   },
   {
     id: 6,
@@ -58,7 +68,7 @@ export const mockMatches: Match[] = [
     interest: "Financeiro",
     experience: "3-5",
     affinity: 0,
-    avatar: "https://avatar.iran.liara.run/public/22"
+    avatar: Homem22
   },
 
   // RH
@@ -69,7 +79,7 @@ export const mockMatches: Match[] = [
     interest: "RH",
     experience: "1-2",
     affinity: 0,
-    avatar: "https://avatar.iran.liara.run/public/100"
+    avatar: Mulher100
   },
   {
     id: 8,
@@ -78,7 +88,7 @@ export const mockMatches: Match[] = [
     interest: "RH",
     experience: "3-5",
     affinity: 0,
-    avatar: "https://avatar.iran.liara.run/public/50"
+    avatar: Homem50
   },
 
   // Jurídico
@@ -89,7 +99,7 @@ export const mockMatches: Match[] = [
     interest: "Jurídico",
     experience: "3-5",
     affinity: 0,
-    avatar: "https://avatar.iran.liara.run/public/55"
+    avatar: Mulher55
   },
   {
     id: 10,
@@ -98,6 +108,6 @@ export const mockMatches: Match[] = [
     interest: "Jurídico",
     experience: "mais-de-10",
     affinity: 0,
-    avatar: "https://avatar.iran.liara.run/public/41"
+    avatar: Homem41
   },
 ];
