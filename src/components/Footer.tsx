@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="md:flex md:justify-between">
           <div className="grid grid-row-2 gap-8 md:gap-6 sm:grid-cols-3">
             <div>
-              <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
+              <h2 className="mb-4 text-sm font-semibold text-blue-600 uppercase dark:text-white">Resources</h2>
               <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li>
                   <a href="https://operadora.legal/" className="hover:underline">LegalAI</a>
@@ -13,8 +13,8 @@ export default function Footer() {
               </ul>
             </div>
             <div>
-              <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h2>
-              <ul className="flex flex-col gap-4 text-gray-500 dark:text-gray-400 font-medium">
+              <h2 className="mb-4 text-sm font-semibold text-blue-600 uppercase dark:text-white">Follow us</h2>
+              <ul className="flex flex-col gap-2 text-gray-500 dark:text-gray-400 font-medium">
                 <li>
                   <a href="https://www.facebook.com/operadoralegal" className="hover:underline ">Facebook</a>
                 </li>
@@ -30,8 +30,8 @@ export default function Footer() {
               </ul>
             </div>
             <div>
-              <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
-              <ul className="flex flex-col gap-4 text-gray-500 dark:text-gray-400 font-medium">
+              <h2 className="mb-4 text-sm font-semibold text-blue-600 uppercase dark:text-white">Legal</h2>
+              <ul className="flex flex-col gap-2 text-gray-500 dark:text-gray-400 font-medium">
                 <li>
                   <a href="#" className="hover:underline">Privacy Policy</a>
                 </li>
